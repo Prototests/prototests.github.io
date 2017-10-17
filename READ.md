@@ -1,2 +1,0 @@
-# Mi-Casa
-School project
